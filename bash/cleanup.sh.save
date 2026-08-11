@@ -1,0 +1,4 @@
+echo "Removing DevOps project...
+rm -rf DevOps
+echo "Cleanup completed!"
+

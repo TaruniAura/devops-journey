@@ -1,0 +1,7 @@
+Linux
+Docker
+Git
+Python
+Terraform
+Linux
+Docker
