@@ -1,0 +1,3 @@
+Hello DevOps!
+Learning Python.
+Working with files.
